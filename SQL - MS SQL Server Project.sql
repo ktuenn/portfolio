@@ -1,4 +1,9 @@
-﻿--- 6.Lệnh mô tả dữ liệu:DDL
+/* 
+
+Final project of my database course in semester 3 (12/2022) - Flight Management Project
+
+*/
+--- 6.Lệnh mô tả dữ liệu:DDL
 --- 6.1.Tạo databse
   CREATE DATABASE QLCB 
 -------------------------
