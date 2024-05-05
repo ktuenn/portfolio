@@ -1,4 +1,4 @@
-/*
+/* 4/2024
 BigQuery Analytics Project: Analyzing User Behavior in E-commerce Website
 Google Analytics Sample Dataset
 https://console.cloud.google.com/bigquery?sq=204658862253:cdde78bb3ffa4084a2aa3e7bcb2d3880
