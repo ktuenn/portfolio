@@ -1,6 +1,6 @@
 /* 
 
-Final project of my database course in semester 3 (12/2022) - Flight Management Project
+Final project of my database course in semester 3 (12/2022) - Airport  Management Project
 
 */
 --- 6.Lệnh mô tả dữ liệu:DDL
